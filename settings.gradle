@@ -1,0 +1,3 @@
+include ':app'
+rootProject.name='IntensivStart'
+include ':core_network'
